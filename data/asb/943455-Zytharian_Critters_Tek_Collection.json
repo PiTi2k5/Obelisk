@@ -1,5 +1,5 @@
 {
-	"version": "1781487434.25636863",
+	"version": "1793698249.26477280",
 	"format": "1.16-mod-remap",
 	"mod": {
 		"id": "943455",
@@ -2926,7 +2926,9 @@
 			],
 			"breeding": {
 				"gestationTime": 0,
-				"incubationTime": 0,
+				"incubationTime": 5999.52004,
+				"eggTempMin": 29,
+				"eggTempMax": 32,
 				"maturationTime": 175438.596,
 				"matingCooldownMin": 64800,
 				"matingCooldownMax": 172800
@@ -7281,7 +7283,9 @@
 			],
 			"breeding": {
 				"gestationTime": 0,
-				"incubationTime": 0,
+				"incubationTime": 8999.28006,
+				"eggTempMin": 22,
+				"eggTempMax": 28,
 				"maturationTime": 175438.596,
 				"matingCooldownMin": 64800,
 				"matingCooldownMax": 172800

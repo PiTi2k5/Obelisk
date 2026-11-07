@@ -1,5 +1,5 @@
 {
-	"version": "1785846582.25636863",
+	"version": "1793697314.26477280",
 	"format": "1.16-mod-remap",
 	"mod": {
 		"id": "932714",
@@ -5562,7 +5562,10 @@
 					"colors": [ "Light Yellow", "Dino Albino" ]
 				},
 				null,
-				null,
+				{
+					"name": "Main highlights",
+					"colors": [ "Light Yellow", "Dino Albino" ]
+				},
 				null,
 				{
 					"name": "Head main",
@@ -6609,7 +6612,49 @@
 					]
 				},
 				null,
-				null,
+				{
+					"name": "Belly highlights",
+					"colors": [
+						"Dino Light Orange",
+						"Dino Light Yellow",
+						"Dino Dark Yellow",
+						"Dino Light Green",
+						"Dino Medium Green",
+						"Dino Light Blue",
+						"Dino Light Purple",
+						"Dino Light Brown",
+						"Dino Medium Brown",
+						"Light Grey",
+						"Dino Albino",
+						"BigFoot0",
+						"BigFoot4",
+						"BigFoot5",
+						"WolfFur",
+						"DarkWolfFur",
+						"DragonBase0",
+						"DragonBase1",
+						"DragonGreen0",
+						"DragonGreen1",
+						"DragonGreen2",
+						"DragonGreen3",
+						"WyvernPurple0",
+						"WyvernPurple1",
+						"WyvernBlue0",
+						"Dino Medium Blue",
+						"LightWarmGray",
+						"LightCement",
+						"Coral",
+						"Orange",
+						"Peach",
+						"LightAutumn",
+						"Mustard",
+						"PowderBlue",
+						"Glacial",
+						"DryMoss",
+						"Custard",
+						"Cream"
+					]
+				},
 				null,
 				{
 					"name": "Back",
@@ -10872,7 +10917,49 @@
 					]
 				},
 				null,
-				null,
+				{
+					"name": "Belly highlights",
+					"colors": [
+						"Dino Light Orange",
+						"Dino Light Yellow",
+						"Dino Dark Yellow",
+						"Dino Light Green",
+						"Dino Medium Green",
+						"Dino Light Blue",
+						"Dino Light Purple",
+						"Dino Light Brown",
+						"Dino Medium Brown",
+						"Light Grey",
+						"Dino Albino",
+						"BigFoot0",
+						"BigFoot4",
+						"BigFoot5",
+						"WolfFur",
+						"DarkWolfFur",
+						"DragonBase0",
+						"DragonBase1",
+						"DragonGreen0",
+						"DragonGreen1",
+						"DragonGreen2",
+						"DragonGreen3",
+						"WyvernPurple0",
+						"WyvernPurple1",
+						"WyvernBlue0",
+						"Dino Medium Blue",
+						"LightWarmGray",
+						"LightCement",
+						"Coral",
+						"Orange",
+						"Peach",
+						"LightAutumn",
+						"Mustard",
+						"PowderBlue",
+						"Glacial",
+						"DryMoss",
+						"Custard",
+						"Cream"
+					]
+				},
 				null,
 				{
 					"name": "Back",
@@ -17946,7 +18033,10 @@
 					"colors": [ "Dark Green", "Black", "LeafGreen" ]
 				},
 				null,
-				null,
+				{
+					"name": "Main",
+					"colors": [ "Dark Green", "Black", "LeafGreen" ]
+				},
 				null,
 				{
 					"name": "Main",
@@ -23355,7 +23445,10 @@
 					"colors": [ "MediumAutumn", "Dino Albino" ]
 				},
 				null,
-				null,
+				{
+					"name": "Main",
+					"colors": [ "MediumAutumn", "Dino Albino" ]
+				},
 				null,
 				{
 					"name": "Main",
@@ -36023,7 +36116,10 @@
 					"colors": [ "White" ]
 				},
 				null,
-				null,
+				{
+					"name": "Color2",
+					"colors": [ "Yellow" ]
+				},
 				null,
 				{
 					"name": "Color4",

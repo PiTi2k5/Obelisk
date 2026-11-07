@@ -1,5 +1,5 @@
 {
-	"version": "1785684284.25636863",
+	"version": "1793699549.26477280",
 	"format": "1.16-mod-remap",
 	"mod": {
 		"id": "971318",
@@ -4833,7 +4833,19 @@
 					]
 				},
 				null,
-				null,
+				{
+					"name": "Blue belly",
+					"colors": [
+						"White",
+						"NearWhite",
+						"Light Grey",
+						"Dino Light Orange",
+						"Dino Light Yellow",
+						"LightWarmGray",
+						"BigFoot0",
+						"BigFoot4"
+					]
+				},
 				null,
 				{
 					"name": "Darker spotting above green",
